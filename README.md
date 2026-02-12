@@ -5,6 +5,7 @@ Design Systems • Typed APIs • Retrieval-Augmented AI
 I build modular systems that pair scalable frontend architecture with well-structured backend services.
 
 🔭 Currently building: Enterprise Trust Center prototype (React + Stencil + GraphQL)
+
 🧠 Exploring: RAG pipelines and provider-agnostic LLM orchestration 
 
 Interested in clean architecture, scalable UI primitives, and pragmatic AI tooling.
