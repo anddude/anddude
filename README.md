@@ -1,4 +1,4 @@
-# 🤠 Howdy! I’m Annie 👋  
+# Hi, I’m Annie 👋  
 ### Full-Stack TypeScript Engineer  
 Design Systems • Typed APIs • Retrieval-Augmented AI  
 
